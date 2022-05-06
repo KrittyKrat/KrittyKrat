@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krat
 - 👀 I’m interested in breathing oxygen
 - 🌱 I’m currently learning to roam this mortal coil
-- 💞️ I’m looking to collaborate on doin' yo mom
+- 💞️ I’m looking to collaborate on finding Obamas last name
 
 <!---
 KrittyKrat/KrittyKrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
